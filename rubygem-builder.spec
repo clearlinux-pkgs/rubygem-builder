@@ -4,7 +4,7 @@
 #
 Name     : rubygem-builder
 Version  : 3.2.2
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/builder-3.2.2.gem
 Source0  : https://rubygems.org/downloads/builder-3.2.2.gem
 Summary  : No detailed summary available
